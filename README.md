@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://summerofcode.withgoogle.com/assets/media/logo.svg" alt="GSoC Logo" height="80"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://www.fossology.org/wp-content/uploads/sites/7/2021/05/cropped-fossology_logo.png" alt="FOSSology Logo" height="80"/>
-</p>
+![GSoC @ FOSSology](/gsocHeader.png)
+
 
 <h1 align="center">🌟 My GSoC 2025 Journey with FOSSology 🌟</h1>
 
