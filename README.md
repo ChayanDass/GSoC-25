@@ -8,7 +8,7 @@
   <a href="https://www.fossology.org/" target="_blank">FOSSology</a>.  
   From proposal to contributions, weekly updates, and the final report — everything is organized here.
 </p>
-![GSoC @ FOSSology](/static/img/gsocHeader.png)
+
 ---
 
 ## 📌 About the Project
@@ -18,22 +18,19 @@ The project focuses on enhancing LicenseDB with robust features like database mi
 ---
 
 ## 🛠️ Deliverables
-- [ ] Rich Text Editor Integration  
-- [ ] Backend Support for Rich Text Storage  
-- [ ] Obligation/Text Similarity Search  
-- [ ] Swagger 3.0 Documentation Support  
-- [ ] Structured Logging  
-- [ ] Standardized REST API Responses  
-- [ ] Test Coverage & Documentation  
 
+- [x] **Database Migrations**  
+  - Add support for database migrations using [golang-migrate/migrate](https://github.com/golang-migrate/migrate).
+- [ ] **Mail Notifications**  
+  - Notify **admins**, **license creators**, and **project owners** when a license gets updated.
+- [x] **Refresh Token Functionality**  
+  - Implement refresh token support for secure and seamless authentication.
+- [ ] **New Monorepo Setup**  
+  - Restructure the project into a unified **backend + frontend monorepo**.
+- [x] **Minor Endpoint Improvements**
+  - Add **changelogs** for user endpoints.
+  - Provide **top X licenses/obligations** with similar text.
+  - Improve **logging** and REST API responses.
+- [x] **Test Coverage & Documentation**  
+  - Improve **unit**, **functional**, and **API** test coverage.
 ---
-
-## 📅 Weekly Updates
-| Week | Dates | Summary | PRs / Issues |
-|------|-------|---------|--------------|
-| 1    | TBD   | TBD     | TBD          |
-| 2    | TBD   | TBD     | TBD          |
-
----
-
-## 📂 Repository Structure
