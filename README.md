@@ -21,11 +21,11 @@ The project focuses on enhancing LicenseDB with robust features like database mi
 
 - [x] **Database Migrations**  
   - Add support for database migrations using [golang-migrate/migrate](https://github.com/golang-migrate/migrate).
-- [ ] **Mail Notifications**  
+- [x] **Mail Notifications**  
   - Notify **admins**, **license creators**, and **project owners** when a license gets updated.
 - [x] **Refresh Token Functionality**  
   - Implement refresh token support for secure and seamless authentication.
-- [ ] **New Monorepo Setup**  
+- [x] **New Monorepo Setup**  
   - Restructure the project into a unified **backend + frontend monorepo**.
 - [x] **Minor Endpoint Improvements**
   - Add **changelogs** for user endpoints.
