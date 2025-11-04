@@ -112,7 +112,7 @@ This increased backend test coverage to **~60–70%**, providing greater stabili
 
 As part of enhancing the API usability and maintainability, several improvements were made to user-related endpoints, logging, and data-fetching workflows.
 
----
+
 ### 📜 Changelogs for User Endpoints
 
 Added support for **endpoint-level changelogs**, allowing users and admins to track what changed, when, and by whom.  
@@ -352,8 +352,10 @@ All major deliverables were successfully completed, reviewed, and merged — sig
 ## 🙌 Acknowledgements
 
 I am deeply grateful to:
-
-- **Mentors:** *Name1*, *Name2*  
+  
+  
+- **Mentor:** **[Dearsh Oberoi](https://github.com/deo002)**
+  
   For their continuous guidance, design feedback, and valuable reviews.
 - **FOSSology Community**  
   For their support, discussions, and collaborative spirit.
