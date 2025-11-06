@@ -1,3 +1,8 @@
+![ViewCount](https://views.whatilearened.today/views/github/ChayanDass/GSoC-25.svg)
+![GitHub](https://img.shields.io/github/followers/ChayanDass?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/ChayanDass/GSoC-25?style=social)
+---
+
 <p align="center">
   <img src="gsocHeader.png" alt="GSoC @ FOSSology" width="80%" />
 </p>
